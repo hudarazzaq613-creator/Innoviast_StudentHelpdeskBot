@@ -1,0 +1,24 @@
+{
+  "faqs": [
+    {
+      "question": "How can I apply for admission?",
+      "answer": "Complete the online application, upload required documents, pay the application fee, and follow the university merit list or test process."
+    },
+    {
+      "question": "What documents are required?",
+      "answer": "Common documents include photograph, CNIC or B-form, academic certificates, transcripts where applicable, domicile if required, and paid fee voucher."
+    },
+    {
+      "question": "How can I apply for a scholarship?",
+      "answer": "Submit the scholarship form with academic and financial documents to student affairs before the announced deadline."
+    },
+    {
+      "question": "What is the attendance policy?",
+      "answer": "Students are generally expected to maintain at least 75% attendance in each course, but the official policy should be confirmed with the department."
+    },
+    {
+      "question": "Where is the registrar office?",
+      "answer": "The registrar office is normally located in the administration block. Students should check campus directions or ask student affairs for exact location."
+    }
+  ]
+}

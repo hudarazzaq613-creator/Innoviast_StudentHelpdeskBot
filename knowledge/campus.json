@@ -1,0 +1,21 @@
+{
+  "title": "Campus Facilities and Student Affairs",
+  "facilities": [
+    "Registrar office",
+    "Admissions office",
+    "Accounts or finance office",
+    "Student affairs office",
+    "Library",
+    "Computer labs",
+    "Cafeteria",
+    "Sports area",
+    "First aid support where available"
+  ],
+  "office_timings": "Most offices follow official university working hours. Students should check the latest notice or contact the office before visiting.",
+  "student_affairs": [
+    "Scholarship guidance",
+    "Student certificates and forms",
+    "Club and society support",
+    "General student support and complaints routing"
+  ]
+}

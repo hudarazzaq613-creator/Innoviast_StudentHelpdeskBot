@@ -1,0 +1,10 @@
+{
+  "title": "Attendance Policy",
+  "minimum_requirement": "Students are generally expected to maintain at least 75% attendance in each course unless the university announces a different requirement.",
+  "shortage_guidance": [
+    "Contact the course teacher or department coordinator as early as possible.",
+    "Submit medical or official leave documents if applicable.",
+    "Follow department instructions for attendance shortage review."
+  ],
+  "exam_eligibility": "Students with attendance below the required threshold may be restricted from sitting in final examinations."
+}

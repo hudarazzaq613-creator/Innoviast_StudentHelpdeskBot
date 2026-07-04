@@ -1,0 +1,13 @@
+{
+  "title": "Library Services",
+  "overview": "The library supports students with books, reference material, study space, and academic resources.",
+  "typical_timings": "Library timings are commonly aligned with university working hours. Confirm current timings from the library desk or official notice board.",
+  "services": [
+    "Book borrowing",
+    "Reference material",
+    "Reading area",
+    "Digital resources where available",
+    "Library clearance for graduating students"
+  ],
+  "requirements": "Students may need a university ID card to borrow books or use some library services."
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Admissions",
+  "overview": "Students can apply through the university admission portal or admissions office during the announced admission cycle.",
+  "process": [
+    "Complete the online application form.",
+    "Upload scanned copies of required documents.",
+    "Pay the application processing fee through the listed payment method.",
+    "Appear for an admission test or interview if the selected program requires it.",
+    "Check the merit list and complete enrollment within the deadline."
+  ],
+  "required_documents": [
+    "Recent photograph",
+    "CNIC or B-form",
+    "Matric or equivalent certificate",
+    "Intermediate or equivalent certificate",
+    "Previous degree or transcript for graduate programs",
+    "Domicile certificate if required by the university",
+    "Paid application fee voucher"
+  ],
+  "eligibility": "Eligibility depends on the selected program. Undergraduate applicants usually need intermediate or equivalent education. Graduate applicants usually need a relevant bachelor's degree.",
+  "contact": "For final deadlines, merit criteria, and program-specific requirements, contact the admissions office."
+}

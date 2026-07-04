@@ -1,0 +1,18 @@
+{
+  "title": "Fee Structure",
+  "overview": "Fee amounts vary by program, semester, and student category. Students should confirm exact amounts from the accounts or finance office.",
+  "common_fee_categories": [
+    "Admission fee",
+    "Tuition fee",
+    "Registration fee",
+    "Examination fee",
+    "Library and laboratory charges",
+    "Security deposit where applicable"
+  ],
+  "payment_guidance": [
+    "Generate the fee challan from the student portal or collect it from the finance office.",
+    "Pay before the listed deadline to avoid late charges.",
+    "Keep the paid voucher or receipt for verification."
+  ],
+  "late_fee_policy": "Late payment may result in a fine or temporary registration hold according to university policy."
+}

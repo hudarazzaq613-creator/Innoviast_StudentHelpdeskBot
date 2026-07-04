@@ -1,0 +1,21 @@
+{
+  "title": "Departments and Programs",
+  "common_departments": [
+    "Computer Science",
+    "Software Engineering",
+    "Business Administration",
+    "English",
+    "Mathematics",
+    "Education",
+    "Psychology",
+    "Commerce"
+  ],
+  "program_information": "Program availability, seats, eligibility, and course plans can change by session. Students should verify details with the relevant department or admissions office.",
+  "department_support": [
+    "Course registration guidance",
+    "Timetable information",
+    "Teacher consultation",
+    "Academic advising",
+    "Exam and result queries"
+  ]
+}
