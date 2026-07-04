@@ -46,6 +46,28 @@ Open `http://localhost:3000`.
 - Scope enforcement for university-only queries
 - Light and dark theme support
 
+## Screenshots
+
+### Home
+
+![Home page](public/home.png)
+
+### Features
+
+![Features section](public/features.png)
+
+### How It Works
+
+![How it works section](public/howitworks.png)
+
+### FAQs
+
+![FAQs section](public/FAQs.png)
+
+### Chatbot
+
+![Chatbot interface](public/chatbot.png)
+
 ## API
 
 `POST /api/chat`
